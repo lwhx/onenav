@@ -1,6 +1,6 @@
 # OneNav
 
-中文 | [English](./README_EN.md)
+OneNav 重构版 ZMark现已发布，点此了解：[https://www.zmark.app](https://www.zmark.app/)
 
 ___
 
